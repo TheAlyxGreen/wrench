@@ -3,8 +3,8 @@ package wrench
 import (
 	"errors"
 	"os"
-	
-	"github.com/TheAlyxGreen/Wrench/path"
+
+	"github.com/TheAlyxGreen/wrench/path"
 )
 
 const ErrorFileDoesNotExist = "specified file does not exist"
