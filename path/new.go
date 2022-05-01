@@ -1,7 +1,7 @@
 package path
 
 import (
-	"github.com/TheAlyxGreen/Wrench/data"
+	"github.com/TheAlyxGreen/wrench/data"
 )
 
 // NewPath returns a Path from an array of keys

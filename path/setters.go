@@ -1,7 +1,7 @@
 package path
 
 import (
-	"github.com/TheAlyxGreen/Wrench/data"
+	"github.com/TheAlyxGreen/wrench/data"
 )
 
 // PushKey appends the given Data to the end of the path
