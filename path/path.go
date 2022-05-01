@@ -1,7 +1,7 @@
 package path
 
 import (
-	"github.com/TheAlyxGreen/Wrench/data"
+	"github.com/TheAlyxGreen/wrench/data"
 )
 
 const ErrorPathHasNoKeys = "path has no keys"

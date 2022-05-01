@@ -2,8 +2,8 @@ package path
 
 import (
 	"errors"
-	
-	"github.com/TheAlyxGreen/Wrench/data"
+
+	"github.com/TheAlyxGreen/wrench/data"
 )
 
 // GetKeys fetches the list of Data in the path
